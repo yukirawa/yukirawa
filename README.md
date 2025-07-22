@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yukirawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" align="right" width="400" />
 
-こんにちは。北海道に住む15歳です。
-趣味は、旅行・ゲーム・何かを作ったりすることです。
-このGithubで作ったものを公開していきたいと思います。
-しかし残念なことですが、一部にAIを利用しております。ご了承ください。
+こんにちは。北海道に住む15歳です。<br>
+趣味は、旅行・ゲーム・何かを作ったりすることです。<br>
+このGithubで作ったものを公開していきたいと思います。<br>
+しかし残念なことですが、一部にAIを利用しております。ご了承ください。<br>
 
 ---
 
