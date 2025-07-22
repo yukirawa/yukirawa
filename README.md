@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yukirawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" align="right" width="400" />
 
-はじめまして！ 北海道でプログラミングを勉強している15歳です。
-ウェブサイト制作から始めて、今はソフトウェア開発にも興味があります。
-
-趣味は鉄道、旅行、ゲーム、調べ物、AIなど、幅広く楽しんでいます！
-特に、鉄道で旅をしながら各地の景色を見たり、面白いゲームを探したりするのが好きです。
+こんにちは。北海道に住む15歳です。
+趣味は、旅行・ゲーム・何かを作ったりすることです。
+このGithubで作ったものを公開していきたいと思います。
+しかし残念なことですが、一部にAIを利用しております。ご了承ください。
 
 ---
 
-### 🛠️ 好きな言語・ツール (Languages and Tools)
+### 言語の割合(Languages and Tools)
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs" />
@@ -33,21 +32,16 @@ Here are some ideas to get you started:
 </p>
 
 ---
+---
 
-### 🌱 今やっていること・興味があること (I'm currently...)
-- Pythonを使ったゲーム開発
-- AI（機械学習）の基礎を勉強中
-- いつか旅行記録を残せるようなWebアプリを作ってみたいです！
+### 連絡先(Contact Me)
+- **Youtube**: https://youtube.com/@yukirawa283
+- **Twitter**: https://x.com/@setsugen_283
+- **E-mail**: kuniwa56@gmail.com
 
 ---
 
-### 📫 連絡先 (Contact Me)
-- **ブログ**: [ここにブログ名を入力](ここにブログのURLを入力)
-- **X (旧Twitter)**: [@(アカウント名)](https://twitter.com/アカウント名)
-
----
-
-### ✨ GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukirawa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
