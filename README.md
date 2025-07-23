@@ -34,10 +34,19 @@ Here are some ideas to get you started:
 ---
 ---
 
-### 連絡先(Contact Me)
+### SNS(Social Networking Service)
 - **Youtube**: https://youtube.com/@yukirawa283
 - **Twitter**: https://x.com/@setsugen_283
+- **Didcord**: 
+- **Note**: https://note.com/yukirawa283
+- **Instagram**: https://www.instagram.com/yukirawa283
+
+---
+---
+
+### 連絡先(Contact Me)
 - **E-mail**: kuniwa56@gmail.com
+- Twitterの連絡やその他SNSのDMも合わせてご利用下さい。小さなことでもなんでも連絡ください。
 
 ---
 
