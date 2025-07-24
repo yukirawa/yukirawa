@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 ---
 
 ### 連絡先(Contact)
-- **E-mail**: kuniwa56@gmail.com
- Twitterの連絡やその他SNSのDMも合わせてご利用下さい。小さなことでも**なんでも**連絡ください。
+- **E-mail**: kuniwa56@gmail.com <br>
+ 
+ ### Twitterの連絡やその他SNSのDMも合わせてご利用下さい。小さなことでも**なんでも**連絡ください。
 
 ---
 ---
