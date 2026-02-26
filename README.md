@@ -6,7 +6,7 @@
 AIをフル活用して開発しています。
 しかし今後、勉強の成果によってAIの使用割合は現象していく計画です。
 
-## 技術
+## 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
